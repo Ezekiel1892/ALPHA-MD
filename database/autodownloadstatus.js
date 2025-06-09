@@ -1,2 +1,3 @@
-auto typing
-auto view status
+.auto typing
+.auto view status
+.view once 
